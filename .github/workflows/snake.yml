@@ -21,8 +21,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }} 
           outputs: |
             dist/snake.svg?palette=rainbow&range=last_2_years  # Rango de 2 años
-            dist/snake-dark.svg?palette=github-dark&range=last_2_years  # Versión oscura
-            dist/snake-light.svg?palette=github-light&range=last_2_years  # Versión clara
+            dist/snake-dark.svg?palette=rainbow&range=last_2_years  # Versión oscura
 
       - name: Upload Snake to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
