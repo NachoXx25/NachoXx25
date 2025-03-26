@@ -26,7 +26,6 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
 </div>
-###
 
 ![Snake animation](https://github.com/NachoXx25/NachoXx25/blob/output/snake.svg)
 
