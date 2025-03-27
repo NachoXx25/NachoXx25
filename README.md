@@ -32,8 +32,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NachoXx25/NachoXx25/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NachoXx25/NachoXx25/output/pacman-contribution-graph.svg">
 </picture>
-<!--![Snake animation](https://github.com/NachoXx25/NachoXx25/blob/output/snake.svg) --/>
-
+<br/>
 <div align="left">
   <a href="https://www.youtube.com/@ignaciovalenzuela8034" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
@@ -46,4 +45,5 @@
   </a>
 </div>
 
+<!-- ![Snake animation](https://github.com/NachoXx25/NachoXx25/blob/output/snake.svg) -->
 ###
