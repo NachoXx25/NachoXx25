@@ -26,15 +26,13 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" alt="csharp logo"  />
 </div>
-
+<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NachoXx25/NachoXx25/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NachoXx25/NachoXx25/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NachoXx25/NachoXx25/output/pacman-contribution-graph.svg">
 </picture>
 <!--![Snake animation](https://github.com/NachoXx25/NachoXx25/blob/output/snake.svg) --/>
-
-###
 
 <div align="left">
   <a href="https://www.youtube.com/@ignaciovalenzuela8034" target="_blank">
