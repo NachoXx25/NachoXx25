@@ -22,7 +22,8 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-
+          outputs: |
+            dist/pacman.svg?palette=yellow,blue&shape=rounded&range=last_2_years
 
       - name: push pacman-contribution-graph.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
